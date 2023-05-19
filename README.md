@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./img/Course.png" alt="DiD Course Logo" width="200" height="200">
+  <img src="./img/DiD_logo.gif" alt="DiD Logo" width="200" height="200">
   <br>
   HEI-VS DiD Course Documents
   <br>
